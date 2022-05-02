@@ -1,0 +1,11 @@
+# ==[ LEGEND ]===================================
+# - Task uncompleted
+# + Task done
+# x Task aborted (will not be implemented)
+# ? Up for debate whether task will be done or not
+# ===============================================
+
+
+
+- implement SSID exception
+- check ESP software for quality/comments/bugs

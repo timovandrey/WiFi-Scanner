@@ -1,0 +1,19 @@
+==[ UART ]======
+GPIO 14 -> TX
+GPIO 15 -> RX
+
+==[ STEPPER SHIELDS ]=====
+--< MOTOR X >-----
+23 -> IN1
+24 -> IN2
+25 -> IN3
+8  -> IN4
+7  -> EN
+
+--< MOTOR X >-----
+1  -> IN1
+12 -> IN2
+16 -> IN3
+20 -> IN4
+21 -> EN
+
